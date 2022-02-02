@@ -1,7 +1,7 @@
-﻿using AutoMapper.DAL.Models;
+﻿using AutoMapperExample.DAL.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace AutoMapper.DAL.Context
+namespace AutoMapperExample.DAL.Context
 {
     public class DataContext : DbContext
     {

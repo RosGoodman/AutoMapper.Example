@@ -3,7 +3,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace AutoMapper.Migrations
+namespace AutoMapperExample.Migrations
 {
     public partial class _001 : Migration
     {

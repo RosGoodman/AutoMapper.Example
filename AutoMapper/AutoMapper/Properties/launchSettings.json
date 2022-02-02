@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "AutoMapper": {
+    "AutoMapperExample": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
